@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "The effect of vertical ocean mixing on the tropical Atlantic in a coupled global climate model"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Sea surface temperature (SST) biases in the tropical Atlantic are a long-standing problem among coupled global climate models (CGCMs). They occur in equilibrated state, as well as in initialised seasonal to decadal simulations. The bias is typically characterised by too high SST in upwelling regions and associated errors of wind and precipitation. We examine the SST bias in the state-of-the-art CGCM EC-Earth by means of an upper ocean heat budget analysis. Horizontal advection processes affect the SST bias development only to a small extent, and surface heat fluxes mostly dampen the warm bias. Subgrid-scale upper ocean vertical mixing is too low in EC-Earth when compared to estimates from reanalysis data, potentially giving rise to the warm bias. We perform sensitivity experiments to examine the effect of enhanced vertical mixing on the SST bias in quasi equilibrium present day climate and its impact on projected climate change. Enhanced mixing in historical simulation mode (MixUp𝑝𝑟) reduces the SST bias in the tropical Atlantic compared to the control experiment (Control𝑝𝑟). Associated atmospheric biases of precipitation and surface winds are also reduced in MixUp𝑝𝑟. We further perform climate projections under the RCP8.5 emission scenario (Control𝑓𝑢 and MixUp𝑓𝑢). Under increasing greenhouse gas forcing, the tropical Atlantic warms by up to 4.5∘C locally, and maritime precipitation increases in boreal winter and spring. We show that the vertical mixing parameterisation influences future climate. In MixUp𝑓𝑢, SSTs remain 0.5∘C colder in boreal winter and spring, but increase with the same amplitude in summer and fall. The strength and location of the projected intertropical convergence zone also depends on the ocean vertical mixing efficiency. The rain band moves southward in summer, and its strength increases in winter in MixUp𝑓𝑢 as compared to Control𝑓𝑢.'
+date: 2020-05-19
+venue: 'Climate Dynamics'
+paperurl: 'https://link.springer.com/article/10.1007/s00382-020-05270-x'
+citation: 'Deppenmeier, A., Haarsma, R.J., LeSager, P. et al. The effect of vertical ocean mixing on the tropical Atlantic in a coupled global climate model. Clim Dyn (2020). https://doi.org/10.1007/s00382-020-05270-x'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this paper we investigate the effect of enhanced ocean vertical mixing parameterization on present day and future climate in the tropical Atlantic. Insufficient vertical mixing has long been suspected to be at the root of sea surface temperature related biases. Here, we follow up on the result obtained with the atmosphere-ocean single column model and test the parameterization enhancement in a coupled global climate model. We show that sea surface temperature related biases are reduced in size, and that the projected future climate shows sensitivity to the mixing parameterization. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/paper_3d.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Deppenmeier, A., Haarsma, R.J., LeSager, P. et al. The effect of vertical ocean mixing on the tropical Atlantic in a coupled global climate model. Clim Dyn (2020). https://doi.org/10.1007/s00382-020-05270-x
