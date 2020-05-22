@@ -11,30 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Climate Science, Wageningen University, 2019
+* M.S. in Chemistry, ETH Z\"urich, 2013
+* B.S. in Chemistry, Georg-August University G\"ottingen, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2019 -- Present: Postdoctoral Fellow
+  * National Center for Atmospheric Research
+  * Part of the Pacific Upwelling and Mixing Physics project (PUMP)
+  * Advisor: Frank Bryan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2014 -- May 2019: Graduate Research Assistant
+  * Royal Netherlands Meteorologocal Institute (KNMI)
+  * Studying air-sea interactions related to the warm sea surface temperature bias in the Tropical Atlantic
+  * Co-Advisors: Wilco Hazeleger & Rein Haarsma
   
-Skills
+* June 2012 -- August 2012: Graduate Research Assistant
+  * Helsinki University
+  * Investigation of vacuum polarisation effects through the Uehlig Potential
+  * Co-Advisors: Pekka Pykk\"o & Markus Reiher
+  
+* February 2012 -- May 2012: Graduate Research Assistant
+  * ETH Z\"urich
+  * Reassessment of B3LYP* by means of following two investigations from the literature
+  * Advisor: Markus Reiher
+  
+* March 2011 -- August 2011: Undergraduate Research Assistant
+  * Massey University Auckland
+  * Searching for large Parity Violations: Theoretical Studies of Penta-atomic Uranium Compounds
+  * Co-Advisors: Peter Schwerdtfeger & Peter Botschwina
+
+Teaching Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Guest Lecturer
+  * Atmospheric Dynamics, M.S. course Wageningen University, 2016
+* Academic Tutor
+  * Meteorology and Air Quality, B.S. course Wageningen University, 2015
+  * Introduction to Chemistry and Thermodynamics, ETH Z\"urich, 2012-2013
+  * Theoretical Chemistry for Chemists and Physicists, Georg-August University G\"ottingen, 2010-2011
+* Thesis advisor
+  * Master thesis, Monique Gosseling, "Analysis of EC-Earth SST bias development in the Tropical Atlantic"
+  * Bachelor thesis, Pleun Bonekamp, "Two model intercomparison of the West African Monsoon"
 
 Publications
 ======
@@ -56,4 +74,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for Journal of Climate, Climate Dynamics
