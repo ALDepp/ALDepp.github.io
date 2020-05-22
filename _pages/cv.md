@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Climate Science, Wageningen University, 2019
-* M.S. in Chemistry, ETH Z\"urich, 2013
-* B.S. in Chemistry, Georg-August University G\"ottingen, 2011
+* M.S. in Chemistry, ETH Z&uuml;rich, 2013
+* B.S. in Chemistry, Georg-August University G&ouml;ttingen, 2011
 
 Work experience
 ======
@@ -30,10 +30,10 @@ Work experience
 * June 2012 -- August 2012: Graduate Research Assistant
   * Helsinki University
   * Investigation of vacuum polarisation effects through the Uehlig Potential
-  * Co-Advisors: Pekka Pykk\"o & Markus Reiher
+  * Co-Advisors: Pekka Pykk&ouml; & Markus Reiher
   
 * February 2012 -- May 2012: Graduate Research Assistant
-  * ETH Z\"urich
+  * ETH Z&uuml;rich
   * Reassessment of B3LYP* by means of following two investigations from the literature
   * Advisor: Markus Reiher
   
@@ -48,8 +48,8 @@ Teaching Experience
   * Atmospheric Dynamics, M.S. course Wageningen University, 2016
 * Academic Tutor
   * Meteorology and Air Quality, B.S. course Wageningen University, 2015
-  * Introduction to Chemistry and Thermodynamics, ETH Z\"urich, 2012-2013
-  * Theoretical Chemistry for Chemists and Physicists, Georg-August University G\"ottingen, 2010-2011
+  * Introduction to Chemistry and Thermodynamics, ETH Z&uuml;rich, 2012-2013
+  * Theoretical Chemistry for Chemists and Physicists, Georg-August University G&ouml;ttingen, 2010-2011
 * Thesis advisor
   * Master thesis, Monique Gosseling, "Analysis of EC-Earth SST bias development in the Tropical Atlantic"
   * Bachelor thesis, Pleun Bonekamp, "Two model intercomparison of the West African Monsoon"
