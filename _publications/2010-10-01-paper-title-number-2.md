@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "The Southeastern Tropical Atlantic SST bias investigated with a coupled atmosphere-ocean single column model at a PIRATA mooring site"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'Warm sea surface temperature biases (SST) in the tropical Atlantic form a longstanding problem in coupled general circulation models (CGCMs). Considerable efforts to understand the origins of these biases and alleviate them have been undertaken, but state-of-the-art CGCMs still suffer from biases very similar to those of the generation of models before. In this study, we use a powerful combination of in-situ moored buoy observations and a new coupled ocean-atmosphere single column model (SCM) with identical parameterization as a three dimensional CGCM to investigate the SST bias. We place the SCM at the location of a PIRATA mooring in the southeastern tropical Atlantic, where large SST biases occur in CGCMs. The SCM version of the state-of-the-art coupled GCM EC-Earth performs well for the first five days of the simulation. Then, it develops an SST bias very similar to that of its three dimensional counterpart. Through a series of sensitivity experiments we demonstrate that the SST bias can be reduced by 70 %. We achieve this result by enhancing the turbulent vertical ocean mixing efficiency in the ocean parameterization scheme. The under-representation of vertical mixing in three dimensional CGCMs is a candidate for causing the warm SST bias. We further show that surface shortwave radiation does not cause the SST bias at the location of the PIRATA mooring. Rather, a warm atmospheric near-surface temperature bias and a wet moisture bias contribute to it. Strongly nudging the atmosphere to profiles from reanalysis data reduces the SST bias by 40 %.'
+date: 2010-04-15
+venue: 'Journal of Climate'
+paperurl: 'https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-19-0608.1'
+citation: 'Deppenmeier, A., R.J. Haarsma, C. van Heerwaarden, and W. Hazeleger, 0: The Southeastern Tropical Atlantic SST bias investigated with a coupled atmosphere-ocean single column model at a PIRATA mooring site. J. Climate, 0, https://doi.org/10.1175/JCLI-D-19-0608.1'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+In this paper we investigate the long-standing southeastern tropical Atlantic warm sea surface temperature (SST) bias with a novel coupled atmosphere-ocean single column model (SCM). We focus on boreal summer, in which the tropical Atlantic cold tongue develops rapidly. The observed cooling cannot be matched in coupled global climate models, which leads to a warm bias. The SCM produces a very similar bias 5 days into the simulation. We find that by nudging the atmosphere to reanalysis we reduce the bias by 40%. This is is a sizeable reduction, but we can do even better than that. By increasing the efficiency with which available turbulent kinetic energy in the ocean leads to ocean vertical mixing we reduce the warm SST bias by 70%. This result is robust whether we leave the atmosphere to evolve freely or nudge to reanalysis. 
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://academicpages.github.io/files/DeppenmeierSCMMixing.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Deppenmeier, A., R.J. Haarsma, C. van Heerwaarden, and W. Hazeleger, 0: The Southeastern Tropical Atlantic SST bias investigated with a coupled atmosphere-ocean single column model at a PIRATA mooring site. J. Climate, 0, https://doi.org/10.1175/JCLI-D-19-0608.1
