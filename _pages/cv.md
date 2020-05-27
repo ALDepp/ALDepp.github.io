@@ -60,12 +60,6 @@ Teaching Experience
 * Thesis advisor
   * Master thesis, Monique Gosseling, "Analysis of EC-Earth SST bias development in the Tropical Atlantic"
   * Bachelor thesis, Pleun Bonekamp, "Two model intercomparison of the West African Monsoon"
-
-<> Talks
-<> ======
-<>  <ul>{% for post in site.talks %}
-<>    {% include archive-single-talk-cv.html %}
-<>  {% endfor %}</ul>
   
 Service and leadership
 ======
