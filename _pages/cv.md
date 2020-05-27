@@ -10,13 +10,7 @@ redirect_from:
 {% include base_path %}
 [Download my CV here](/files/CV_Anna-LenaDeppenmeier.pdf)
 
-Education
-======
-* Ph.D in Climate Science, Wageningen University, 2019
-* M.S. in Chemistry, ETH Z&uuml;rich, 2013
-* B.S. in Chemistry, Georg-August University G&ouml;ttingen, 2011
-
-Work experience
+Academic experience
 ======
 * June 2019 -- Present: Postdoctoral Fellow
   * National Center for Atmospheric Research
@@ -43,6 +37,18 @@ Work experience
   * Searching for large Parity Violations: Theoretical Studies of Penta-atomic Uranium Compounds
   * Co-Advisors: Peter Schwerdtfeger & Peter Botschwina
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Education
+======
+* Ph.D in Climate Science, Wageningen University, 2019
+* M.S. in Chemistry, ETH Z&uuml;rich, 2013
+* B.S. in Chemistry, Georg-August University G&ouml;ttingen, 2011
+
 Teaching Experience
 ======
 * Guest Lecturer
@@ -55,17 +61,11 @@ Teaching Experience
   * Master thesis, Monique Gosseling, "Analysis of EC-Earth SST bias development in the Tropical Atlantic"
   * Bachelor thesis, Pleun Bonekamp, "Two model intercomparison of the West African Monsoon"
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+<> Talks
+<> ======
+<>  <ul>{% for post in site.talks %}
+<>    {% include archive-single-talk-cv.html %}
+<>  {% endfor %}</ul>
   
 Service and leadership
 ======
