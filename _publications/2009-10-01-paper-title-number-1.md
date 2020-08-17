@@ -11,5 +11,8 @@ citation: 'Deppenmeier, A., Haarsma, R.J., LeSager, P. et al. The effect of vert
 In this paper we investigate the effect of enhanced ocean vertical mixing parameterization on present day and future climate in the tropical Atlantic. Insufficient vertical mixing has long been suspected to be at the root of sea surface temperature related biases. Here, we follow up on the result obtained with the atmosphere-ocean single column model and test the parameterization enhancement in a coupled global climate model. We show that sea surface temperature related biases are reduced in size, and that the projected future climate shows sensitivity to the mixing parameterization. 
 
 [Download paper here](http://academicpages.github.io/files/Deppenmeier2020_Article_TheEffectOfVerticalOceanMixing.pdf)
+<img src="/files/fig4_3d_paper.png"
+     alt=""
+     style="float: left; margin-right: 10px;" />
 
 Recommended citation: Deppenmeier, A., Haarsma, R.J., LeSager, P. et al. The effect of vertical ocean mixing on the tropical Atlantic in a coupled global climate model. Clim Dyn (2020). https://doi.org/10.1007/s00382-020-05270-x
