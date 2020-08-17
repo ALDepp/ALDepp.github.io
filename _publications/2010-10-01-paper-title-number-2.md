@@ -12,4 +12,8 @@ In this paper we investigate the long-standing southeastern tropical Atlantic wa
 
 [Download paper here](http://academicpages.github.io/files/DeppenmeierSCMMixing.pdf)
 
+<img src="/files/fig11_1d_paper.png"
+     alt="1D paper figure"
+     style="float: left; margin-right: 10px;" />
+
 Recommended citation: Deppenmeier, A., R.J. Haarsma, C. van Heerwaarden, and W. Hazeleger, 0: The Southeastern Tropical Atlantic SST bias investigated with a coupled atmosphere-ocean single column model at a PIRATA mooring site. J. Climate, 0, https://doi.org/10.1175/JCLI-D-19-0608.1
