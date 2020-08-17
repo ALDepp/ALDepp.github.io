@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+<img src="/files/website_banner.png" 
+     alt="Designer Jessica Loriaux"
+	   title="Designer Jessica Loriaux"/>
+
 Hi!
 
 I am Anna, a physical oceanographer and climate scientist with a focus on the tropics. Currently I am working in the [Ocean Section of the Climate and Global Dynamics Lab at NCAR](http://www.cgd.ucar.edu/oce/?ref=hp) on partitioning upwelling in the eastern tropical Pacific into adiabatic and diabatic processes as part of the Pacific Upwelling and Mixing Physics (PUMP) project. We achieve this by leveraging the water mass transformation framework, which further allows us to determine what drives the adiabatic flow. Stay tuned for our first publication, which is currently in preparation. 
