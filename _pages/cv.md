@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download my CV here](/files/CV_Anna-LenaDeppenmeier.pdf)
+[Download my CV here]( )
 
 Academic experience
 ======
@@ -63,4 +63,8 @@ Teaching Experience
   
 Service and leadership
 ======
-* Reviewer for Journal of Climate, Climate Dynamics
+* Reviewer for Journal of Climate, Climate Dynamics, Nature Communications
+
+<img src="/files/thesis.png"
+     alt="My Thesis Cover Designed by Jessica Loriaux"
+     style="float: left; margin-right: 10px;" />
