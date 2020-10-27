@@ -65,6 +65,6 @@ Service and leadership
 ======
 * Reviewer for Journal of Climate, Climate Dynamics, Nature Communications
 
-<img src="/files/thesis.png"
+<!-- <img src="/files/thesis.png"
      alt="My Thesis Cover Designed by Jessica Loriaux"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;" /> -->
