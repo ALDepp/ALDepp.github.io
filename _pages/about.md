@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/files/website_banner.png" 
+<!-- <img src="/files/website_banner.png" 
      alt="Designer Jessica Loriaux"
-	   title="Designer Jessica Loriaux"/>
+	   title="Designer Jessica Loriaux"/> -->
 
 Hi!
 
