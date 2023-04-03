@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download my CV here]( )
+[Download my CV here](https://github.com/ALDepp/ALDepp.github.io/tree/main/files/CV_ALDeppenmeier.pdf)
 
 Academic experience
 ======
