@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-[Download my CV here](https://github.com/ALDepp/ALDepp.github.io/tree/main/files/CV_ALDeppenmeier.pdf)
 
 Academic experience
 ======
@@ -71,6 +69,8 @@ Teaching Experience
 Service and leadership
 ======
 * Reviewer for Journal of Climate, Climate Dynamics, Nature Communications, Nature Climate Change, Geophysical Research Letters, etc
+* Session convener at AGU 2021, Ocean Science Meeting 2022
+* Member of Employee Resource Group [FACES](https://www.ucar.edu/FACES) and CGD DEI committee 
 
 <!-- <img src="/files/thesis.png"
      alt="My Thesis Cover Designed by Jessica Loriaux"
