@@ -12,7 +12,12 @@ redirect_from:
 
 Academic experience
 ======
-* June 2019 -- Present: Postdoctoral Fellow
+* June 2021 -- Present: Project Scientist I
+  * National Center for Atmospheric Research
+  * Lead PI on the NOAA CVP funded pre-field campaign working on understanding the connection between upwelling and mixing and designing a Pacific Upwelling and Mixing Physics field-campaign, Lead PI on NASA funded project aiming to quantify uncertainty of upwelling in the tropical Pacific from satellite wind estimates, co-PI on NSF funded project on advancing our understanding of marine heat waves and their predictability
+  
+
+* June 2019 -- May 2021: Postdoctoral Fellow
   * National Center for Atmospheric Research
   * Part of the Pacific Upwelling and Mixing Physics project (PUMP)
   * Advisor: Frank Bryan
