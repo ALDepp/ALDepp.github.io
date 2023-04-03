@@ -57,6 +57,8 @@ Education
 Teaching Experience
 ======
 * Guest Lecturer
+  * Introduction to Climate Modeling, mixed undergraduate and graduate course CU Boulder, 2022
+  * Introduction to Climate Science, undergraduate course CU Boulder, 2022
   * Atmospheric Dynamics, M.S. course Wageningen University, 2016
 * Academic Tutor
   * Meteorology and Air Quality, B.S. course Wageningen University, 2015
@@ -68,7 +70,7 @@ Teaching Experience
   
 Service and leadership
 ======
-* Reviewer for Journal of Climate, Climate Dynamics, Nature Communications
+* Reviewer for Journal of Climate, Climate Dynamics, Nature Communications, Nature Climate Change, Geophysical Research Letters, etc
 
 <!-- <img src="/files/thesis.png"
      alt="My Thesis Cover Designed by Jessica Loriaux"
