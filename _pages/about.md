@@ -16,7 +16,9 @@ Hi!
 
 Please note that this page is somewhat out of date, update to come soon(ish)..
 
-I am Anna, a physical oceanographer and climate scientist with a focus on tropical air-sea interactions. I am a Project Scientist in the [Ocean Section of the Climate and Global Dynamics Lab at NCAR](http://www.cgd.ucar.edu/oce/?ref=hp) working on partitioning upwelling in the eastern tropical Pacific into adiabatic and diabatic processes as part of the Pacific Upwelling and Mixing Physics (PUMP) project, as well as on estimating (uncertainties on) total upwelling in the tropical Pacific and a project on understanding the predictability of marine heat waves. 
+I am Anna, a physical oceanographer and climate scientist with a focus on tropical air-sea interactions. I am a Lecturer at the University of Liverpool and a NERC Independent Reserach Fellow. You can reach me at a.deppenmeier@liverpool.ac.uk
+
+Before moving to Liverpool I was a Project Scientist in the [Ocean Section of the Climate and Global Dynamics Lab at NCAR](http://www.cgd.ucar.edu/oce/?ref=hp) working on partitioning upwelling in the eastern tropical Pacific into adiabatic and diabatic processes as part of the Pacific Upwelling and Mixing Physics (PUMP) project, as well as on estimating (uncertainties on) total upwelling in the tropical Pacific and a project on understanding the predictability of marine heat waves. 
 
 During my PhD at [Wageningen University](https://www.wur.nl/en/Research-Results/Chair-groups/Environmental-Sciences/Meteorology-and-Air-Quality-Group.htm) and the [Royal Netherlands Meteorological Institute](https://www.knmi.nl/research/weather-climate-models) I investigated the warm sea surface temperature bias in the tropical Atlantic which is common to most state-of-the-art coupled global climate models as part of the [European Union 7th framework project PREFACE](https://preface.w.uib.no/). 
 
